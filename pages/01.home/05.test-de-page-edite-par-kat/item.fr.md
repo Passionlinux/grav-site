@@ -1,5 +1,6 @@
 ---
 title: 'Test de page édité par Kat.'
+visible: false
 ---
 
 L'[article de Fred qui a ce titre](http://frederic.bezies.free.fr/blog/?p=18945#comments) est très acerbe, en faite pour l'avoir lu, je ne le comprends pas. Je ne vois pas tout rose ou tout noir mais je ne vois pas la chose que lui car je ne fréquente pas les mêmes lieux.
