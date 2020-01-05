@@ -1,5 +1,6 @@
 ---
 title: ' Convertir plusieurs images en PDF.'
+visible: false
 ---
 
 J'ai eu besoin d'envoyer des images que j'avais déjà numérisé dans un format *.JPG*  mais dans un format *.PDF*, ne cherchez pas c'est de l'administratif et puis ce format me permet de regrouper plusieurs images ensemble et dans un seul fichier.

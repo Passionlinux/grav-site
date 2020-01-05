@@ -1,5 +1,6 @@
 ---
 title: 'Je tourne sous Mate-desktop!'
+visible: false
 ---
 
 Après avoir tant décrié ce bureau que je trouve toujours autant "d'un autre temps", me voici dessus, c'est pas si terrible que ça, on va dire que ça a prit un sacré coup de vieux. À vrai dire, je trouve XFCE moins vieillot, le look à la GNOME2 n'a jamais été pour moi un exemple de modernité, toujours un "je ne sais quoi" qui me donnait envie d'aller voir ailleurs. Regarder par exemple le look de Mate par défaut:
