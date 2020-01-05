@@ -1,6 +1,7 @@
 ---
 title: 'Il est Grav lui!'
 visible: false
+header_image_file: 'https://download.tuxfamily.org/passionlinux/distributions_linux/distributions_linux.jpg'
 ---
 
 Quel jeu de mot pourrie, oui je n'ai pas été loin pour le faire.
