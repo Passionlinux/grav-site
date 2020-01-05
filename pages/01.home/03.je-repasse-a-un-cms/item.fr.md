@@ -15,3 +15,4 @@ Et celle depuis Grav:
 
 ![Ressources Web Grav](https://download.tuxfamily.org/passionlinux/logiciels/Screenshot-grav-ressources_20200104_210746.png)
 
+On est loin de l'extreme simplicité et du coup légèreté de PluXml qui bat des reccords pour un CMS mais on est tout aussi loin de la lenteur de Wordpress et de son coté usine à gaz.
