@@ -13,4 +13,4 @@ content:
     url_taxonomy_filters: true
 ---
 
-![banner](https://download.tuxfamily.org/passionlinux/site/linux-world-map-second-colored.png)
+![banner](https://download.tuxfamily.org/passionlinux/site/banner.png)
