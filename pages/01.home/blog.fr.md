@@ -1,5 +1,6 @@
 ---
 title: Accueil
+media_order: alionet_blog_banner.png
 published: true
 taxonomy:
     category:
@@ -16,4 +17,3 @@ content:
     url_taxonomy_filters: true
 ---
 
-![banner](https://download.tuxfamily.org/passionlinux/site/banner.png)
