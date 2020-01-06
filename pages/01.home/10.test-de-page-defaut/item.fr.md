@@ -1,6 +1,14 @@
 ---
 title: 'test de page defaut'
 visible: false
+content:
+    items: '@self.children'
+    limit: '5'
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 Comme je voulais voir, je fais juste un test comme ça!
