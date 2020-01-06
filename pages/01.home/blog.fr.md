@@ -1,6 +1,5 @@
 ---
 title: Accueil
-media_order: alionet_blog_banner.png
 published: true
 taxonomy:
     category:
