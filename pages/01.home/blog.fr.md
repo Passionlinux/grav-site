@@ -16,4 +16,3 @@ content:
     url_taxonomy_filters: true
 ---
 
-![PassionGNU/Linux](https://download.tuxfamily.org/passionlinux/site/banner.png)
